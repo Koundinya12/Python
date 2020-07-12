@@ -1,2 +1,2 @@
 # Python
-Tic-tac toe game
+This project is about tic tac toe game using Python.
